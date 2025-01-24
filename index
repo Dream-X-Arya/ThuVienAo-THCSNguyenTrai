@@ -1,12 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <p1> Hello im Fila! </p1>
-    <p2> This is my first project!</p2>
-</body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>This is title</h1>
+    <hr />
+    <p>
+      IM NOT GAY <br />
+      IM MAN <br />
+      IM PRO
+    </p>
+    <u> hi </u>
+    <strong> hi </strong>
+    <br \ />
+    <strong> <u> Gay </u></strong>
+    <ul>
+      <li>Kill Khanh Ngoc</li>
+      <li>Kill you</li>
+    </ul>
+    <p>New guy</p>
+    <ol type="I">
+      <li>You are gay</li>
+      <li>You are bad</li>
+      <li>You are sad</li>
+    </ol>
+  </body>
 </html>
+
